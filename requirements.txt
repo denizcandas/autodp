@@ -1,0 +1,4 @@
+requests
+numpy
+scikit-learn
+PyGithub==1.55
